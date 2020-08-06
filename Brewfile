@@ -4,6 +4,7 @@ cask 'docker'
 cask 'iterm2'
 cask 'font-meslo-for-powerline'
 cask 'miniconda'
+cask 'visual-studio-code'
 
 brew 'bazel'
 brew 'hub'
