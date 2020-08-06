@@ -6,7 +6,7 @@ cask 'font-meslo-for-powerline'
 cask 'miniconda'
 cask 'visual-studio-code'
 
-brew 'bazel'
+brew 'bazelisk'
 brew 'hub'
 brew 'node'
 brew 'zsh'
