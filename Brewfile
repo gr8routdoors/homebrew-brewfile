@@ -9,7 +9,8 @@ cask 'miniconda'                 # minimal python conda install
 cask 'visual-studio-code'
 
 brew 'gh'                        # github CLI
-brew 'go'
+brew 'go'                        # golang
+brew 'go-task'                   # golang build tool
 brew 'zsh'
 brew 'zsh-completions'
 brew 'zsh-syntax-highlighting'
