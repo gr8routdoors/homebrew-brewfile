@@ -9,6 +9,7 @@ cask 'miniconda'                 # minimal python conda install
 cask 'visual-studio-code'
 
 brew 'gh'                        # github CLI
+brew 'go'
 brew 'zsh'
 brew 'zsh-completions'
 brew 'zsh-syntax-highlighting'
