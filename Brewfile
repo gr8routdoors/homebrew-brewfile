@@ -11,7 +11,8 @@ cask 'visual-studio-code'
 brew 'gh'                        # github CLI
 brew 'go'                        # golang
 brew 'go-task'                   # golang build tool
-brea 'protobuf'
+brew 'protobuf'
+brew 'yq'
 brew 'zsh'
 brew 'zsh-completions'
 brew 'zsh-syntax-highlighting'
