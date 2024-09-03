@@ -12,6 +12,9 @@ brew 'go'                        # golang
 brew 'go-task'                   # golang build tool
 brew 'protobuf'
 brew 'python'
+brew 'pyenv'
+brew 'pipx'
+brew 'direnv'
 brew 'yq'
 brew 'zsh'
 brew 'zsh-completions'
